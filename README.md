@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/paranjay1304/LeetCodes/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/paranjay1304/LeetCodes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/paranjay1304/LeetCodes/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/paranjay1304/LeetCodes/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/paranjay1304/LeetCodes/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/paranjay1304/LeetCodes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/paranjay1304/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/paranjay1304/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/paranjay1304/LeetCodes/tree/master/0015-3sum) |
 | [1470-shuffle-the-array](https://github.com/paranjay1304/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/paranjay1304/LeetCodes/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paranjay1304/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/paranjay1304/LeetCodes/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paranjay1304/LeetCodes/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/paranjay1304/LeetCodes/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

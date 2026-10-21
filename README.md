@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/paranjay1304/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/paranjay1304/LeetCodes/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/paranjay1304/LeetCodes/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/paranjay1304/LeetCodes/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/paranjay1304/LeetCodes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/paranjay1304/LeetCodes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/paranjay1304/LeetCodes/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/paranjay1304/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/paranjay1304/LeetCodes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/paranjay1304/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/paranjay1304/LeetCodes/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/paranjay1304/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/paranjay1304/LeetCodes/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/paranjay1304/LeetCodes/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/paranjay1304/LeetCodes/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |

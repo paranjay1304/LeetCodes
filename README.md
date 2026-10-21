@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/paranjay1304/LeetCodes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/paranjay1304/LeetCodes/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/paranjay1304/LeetCodes/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/paranjay1304/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/paranjay1304/LeetCodes/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/paranjay1304/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paranjay1304/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paranjay1304/LeetCodes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/paranjay1304/LeetCodes/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/paranjay1304/LeetCodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/paranjay1304/LeetCodes/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/paranjay1304/LeetCodes/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/paranjay1304/LeetCodes/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

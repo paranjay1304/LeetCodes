@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/paranjay1304/LeetCodes/tree/master/0018-4sum) |
 | [1470-shuffle-the-array](https://github.com/paranjay1304/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/paranjay1304/LeetCodes/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/paranjay1304/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/paranjay1304/LeetCodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/paranjay1304/LeetCodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/paranjay1304/LeetCodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/paranjay1304/LeetCodes/tree/master/0029-divide-two-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/paranjay1304/LeetCodes/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/paranjay1304/LeetCodes/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
